@@ -1,0 +1,24 @@
+{
+    "name": "nazzalra/karyawan",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nazzal Ramzan",
+            "email": "nazzalra@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Karyawan\\": ""
+        }
+    },
+    "type": "laravel-module"
+}
